@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Linq_csharp.Entities
+﻿namespace Linq_csharp.Entities
 {
     internal class Category
     {
